@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1478527651 source:c:\devcode\iaproyect\aplicacioniabfs\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Grafo.h"
+
+1479131620 c:\devcode\iaproyect\aplicacioniabfs\grafo.h
+	<iostream>
+	<queue>
+	<list>
+	<stack>
+
+1479131594 source:c:\devcode\iaproyect\aplicacioniabfs\grafo.cpp
+	"Grafo.h"
+
+1479132601 source:c:\devcode\iaabfs\iabfs\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Grafo.h"
+
+1479131620 c:\devcode\iaabfs\iabfs\grafo.h
+	<iostream>
+	<queue>
+	<list>
+	<stack>
+
